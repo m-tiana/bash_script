@@ -1,3 +1,3 @@
 # Testing the Git Repository
-
-- author: tiana
+## My Bash scripts
+- Author: tiana
